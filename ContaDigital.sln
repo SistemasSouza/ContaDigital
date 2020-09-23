@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD.Data", "src\CD.Data\CD.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD.Api", "src\CD.Api\CD.Api.csproj", "{C7FFDF59-8466-4839-BA6E-DDEF2F1DA296}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CD.Mobile", "CD.Mobile", "{C2D3E1F2-0C09-4B16-A539-1BAD49DF559B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
